@@ -1,14 +1,35 @@
-##👋 Hello,
-I'm Keilar Kirabira
-💻 Junior Full-Stack Developer passionate about building responsive, scalable, and user-friendly web and mobile applications. 
+# 👋 Hello, I'm Keilar Kirabira
+
+💻 Junior Full-Stack Developer passionate about building responsive, scalable, and user-friendly web and mobile applications.
+
 🌱 Currently building cross-platform mobile applications through the TechCrush Program using React Native and RapidAPI.
 
+---
+
 ## 🚀 About Me
-I enjoy turning ideas into real-world digital products
-Built and tested Eki, a multi-sector digital marketplace, as a Full-Stack Developer and QA Lead
-📱 Passionate about building responsive, user-friendly web and mobile applications that create meaningful impact through technology.
+
+- 🚀 I enjoy turning ideas into real-world digital products.
+- 🔭 Built and tested **Eki**, a multi-sector digital marketplace, as a Full-Stack Developer and QA Lead.
+- 📱 Passionate about building responsive, user-friendly applications that create meaningful impact through technology.
+- 🤝 Thrive in Agile teams and enjoy collaborating to solve real-world problems.
+
+---
+
 ## 🌟 Featured Project: Eki Marketplace Platform
-Contributed as a **Full-Stack Developer and QA Lead** in the development of **Eki**, a multi-sector digital marketplace platform designed to enable secure and transparent digital trade across web and mobile platforms. Built and tested core marketplace features, including user onboarding and verification, product and service listings, secure checkout, payment workflows, vendor dashboards, and administrative tools. Collaborated within an Agile team to deliver scalable, high-quality software while ensuring product reliability through comprehensive quality assurance and testing practices.
+
+Contributed as a **Full-Stack Developer and QA Lead** in the development of **Eki**, a multi-sector digital marketplace platform designed to enable secure and transparent digital trade across web and mobile platforms.
+
+Built and tested core marketplace features, including:
+
+- User onboarding and verification
+- Product and service listings
+- Secure checkout and payment workflows
+- Vendor dashboards and administrative tools
+
+Collaborated within an Agile team to deliver scalable, high-quality software while ensuring product reliability through comprehensive quality assurance and testing practices.
+
+---
+
 ## 🛠️ Tech Stack
 
 ### Frontend
@@ -34,3 +55,29 @@ Contributed as a **Full-Stack Developer and QA Lead** in the development of **Ek
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+
+### Tools
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Keilar-kirabira&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Keilar-kirabira&layout=compact&theme=radical)
+
+---
+
+## 📫 Connect With Me
+
+- LinkedIn: https://linkedin.com/in/keilar-kirabira-9abaa2373
+- Email: kirabirakeilarlisa@gmail.com
+
+---
+
+> "Keep learning, keep building, and keep growing."
